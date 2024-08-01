@@ -4,8 +4,13 @@
 
   <p class="q">who will be at this retreat?</p>
   <p>
-    4 churches from vancouver + toronto: living hope fellowship bridgeway church
-    city on a hill vaughan community church
+    4 churches from vancouver + toronto:<br />
+    - <a href="https://lhf.ca/" target="_blank">living hope fellowship</a><br />
+    -
+    <a href="https://bridgewaychurch.ca/" target="_blank">bridgeway church</a
+    ><br />
+    - <a href="https://www.coah.ca/" target="_blank">city on a hill </a><br />
+    - <a href="https://vccem.com/" target="_blank">vaughan community church</a>
   </p>
 
   <p class="q">what should i pack?</p>
@@ -20,7 +25,7 @@
   <p>
     we will be sleeping at the <a
       href="https://maps.app.goo.gl/RZ2bZuPu8UyMKa657"
-      target="_blank">western burnaby plus (5411 kingway st)</a
+      target="_blank">best western plus burnaby (5411 kingway st)</a
     >
     , but almost everything else will start and end at the
     <a href="https://maps.app.goo.gl/VtvjcqQi6qXmveNJ6" target="_blank">

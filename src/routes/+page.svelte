@@ -12,9 +12,9 @@
       <span>bc</span>
     </div>
     <div class="between es">
-      <span>exposure</span>
-      <span>equipping</span>
-      <span>education</span>
+      <a href="/field-trips">exposure</a>
+      <a href="/sessions">equipping</a>
+      <a href="/workshops">education</a>
     </div>
     <div class="between dates">
       <span>2024</span>
@@ -39,7 +39,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: stretch;
-		max-width: 100vw;
+    max-width: 100vw;
   }
 
   .wrapper {
@@ -53,9 +53,9 @@
   .title {
     width: 100%;
     height: auto;
-		max-height: 70vh;
+    max-height: 70vh;
   }
-	
+
   .between {
     display: flex;
     justify-content: space-between;
@@ -73,10 +73,11 @@
     font-size: 3rem;
   }
 
-  .between.es span {
-    font-size: 1.5rem;
+  .between.es a {
+    font-size: 1rem;
     color: var(--red);
-    margin-bottom: -0.125rem;
+		font-family: "Itim", sans-serif;
+		letter-spacing: normal;
   }
 
   .between.dates span {
@@ -87,21 +88,13 @@
 
   .roster span {
     margin-top: 0.5rem;
-    font-size: 1rem;
+    font-size: 0.875rem;
     letter-spacing: normal;
   }
 
-	@media (max-width: 600px) {
-		.full {
-			padding: 1rem 1rem 0rem 1rem;
-		}
-
-		.between.es span {
-			font-size: 1rem;
-		}
-
-		.between.roster span {
-			font-size: 0.75rem;
-		}
-	}
+  @media (max-width: 600px) {
+    .full {
+      padding: 1rem 0rem 0rem 0rem;
+    }
+  }
 </style>
