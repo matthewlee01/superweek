@@ -34,11 +34,12 @@
 <style>
   .full {
     padding: 1rem 2rem 0rem 2rem;
-    height: calc(100vh - 10rem);
+    height: calc(100vh - 11rem);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: stretch;
+		max-width: 100vw;
   }
 
   .wrapper {
@@ -58,7 +59,7 @@
   .between {
     display: flex;
     justify-content: space-between;
-    gap: 1rem;
+    gap: 0.25rem;
     margin-bottom: -1rem;
     letter-spacing: 2px;
   }
@@ -89,4 +90,18 @@
     font-size: 1rem;
     letter-spacing: normal;
   }
+
+	@media (max-width: 600px) {
+		.full {
+			padding: 1rem 1rem 0rem 1rem;
+		}
+
+		.between.es span {
+			font-size: 1rem;
+		}
+
+		.between.roster span {
+			font-size: 0.75rem;
+		}
+	}
 </style>

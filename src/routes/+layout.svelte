@@ -6,12 +6,17 @@
   import logo from "$lib/images/logo.png";
   import { fade } from "svelte/transition";
   import { fly } from "svelte/transition";
+  import { afterNavigate } from "$app/navigation";
   let showMenu = false;
+
+  afterNavigate(() => {
+    showMenu = false;
+  });
 </script>
 
 <div class="main">
   <div class="menubar" class:opaque={showMenu}>
-    <a href="/" on:click={() => showMenu = false}>
+    <a href="/">
       <img src={logo} alt="super week logo" width="100" />
     </a>
     <button class="display" on:click={() => (showMenu = !showMenu)}
@@ -26,8 +31,7 @@
           x: 16,
         }}
         href="/field-trips"
-        class="display"
-        on:click={() => (showMenu = false)}>field trips</a
+        class="display">field trips</a
       >
       <a
         transition:fly={{
@@ -35,8 +39,7 @@
           x: -16,
         }}
         href="/workshops"
-        class="display"
-        on:click={() => (showMenu = false)}>workshops</a
+        class="display">workshops</a
       >
       <a
         transition:fly={{
@@ -44,8 +47,7 @@
           x: 16,
         }}
         href="/sessions"
-        class="display"
-        on:click={() => (showMenu = false)}>sessions</a
+        class="display">sessions</a
       >
       <a
         transition:fly={{
@@ -53,8 +55,7 @@
           x: -16,
         }}
         href="/faq"
-        class="display"
-        on:click={() => (showMenu = false)}>faq</a
+        class="display">faq</a
       >
     </div>
   {/if}
@@ -135,11 +136,11 @@
     padding: 1rem;
     padding-top: 0.25rem;
   }
-  
+
   .content {
     max-width: 880px;
     margin-top: 4rem;
-    padding-bottom: 4rem;
+    padding-bottom: 5rem;
   }
 
   .display {
