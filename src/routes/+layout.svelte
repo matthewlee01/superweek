@@ -75,7 +75,9 @@
   {#if $page.url.pathname !== "/"}
     <div class="footer">
       <div class="img-wrapper">
-        <img src={footer} alt="super week logo" />
+        <a href="/">
+          <img src={footer} alt="super week logo" />
+        </a>
       </div>
       <div class="contact">
         <p>
@@ -174,7 +176,6 @@
   .content {
     max-width: 880px;
     margin-top: 4rem;
-    padding-bottom: 2rem;
   }
 
   .display {
