@@ -17,5 +17,5 @@
 
   <p>- how can i discern God’s voice?</p>
 
-  <p>- how can i marry the right person? p</p>
+  <p>- how can i marry the right person?</p>
 </div>
