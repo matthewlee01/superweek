@@ -4,8 +4,10 @@
   import "@fontsource/inter/300.css";
   import "@fontsource/inter/500.css";
   import logo from "$lib/images/logo.png";
+  import footer from "$lib/images/footer.png";
   import { fade } from "svelte/transition";
   import { fly } from "svelte/transition";
+  import { page } from "$app/stores";
   import { afterNavigate } from "$app/navigation";
   let showMenu = false;
 
@@ -57,11 +59,38 @@
         href="/faq"
         class="display">faq</a
       >
+      <a
+        transition:fly={{
+          duration: 300,
+          x: -20,
+        }}
+        href="/schedule"
+        class="display">schedule</a
+      >
     </div>
   {/if}
   <div class="content">
     <slot />
   </div>
+  {#if $page.url.pathname !== "/"}
+    <div class="footer">
+      <div class="img-wrapper">
+        <img src={footer} alt="super week logo" />
+      </div>
+      <div class="contact">
+        <p>
+          for any questions or concerns, email
+          <a
+            href="mailto:&#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x40;&#x6c;&#x68;&#x66;&#x2e;&#x63;&#x61;"
+            ><span>office@l</span><span hidden>SPAM EMAIL BLOCK</span><span
+              >hf.ca</span
+            ></a
+          >
+        </p>
+        <p>with "SUPER WEEK" in the subject line.</p>
+      </div>
+    </div>
+  {/if}
 </div>
 
 <style>
@@ -135,12 +164,17 @@
     justify-content: center;
     padding: 1rem;
     padding-top: 0.25rem;
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 
   .content {
     max-width: 880px;
     margin-top: 4rem;
-    padding-bottom: 5rem;
+    padding-bottom: 2rem;
   }
 
   .display {
@@ -175,7 +209,7 @@
   }
 
   .menu-content a:nth-child(1) {
-    margin-left: 2rem;
+    margin-left: 2.5rem;
     rotate: 8deg;
   }
 
@@ -185,13 +219,19 @@
   }
 
   .menu-content a:nth-child(3) {
-    margin-left: 4rem;
-    rotate: -8deg;
+    margin-left: 3.5rem;
+    rotate: -10deg;
   }
 
   .menu-content a:nth-child(4) {
-    margin-right: 2rem;
-    rotate: 2deg;
+    margin-left: 2.5rem;
+    rotate: -4deg;
+  }
+
+  .menu-content a:nth-child(5) {
+    margin-top: -0.25rem;
+    margin-right: 0.5rem;
+    rotate: 4deg;
   }
 
   .menu-content {
@@ -210,5 +250,33 @@
     z-index: 10;
     background-color: var(--white);
     color: var(--blue);
+  }
+
+  .footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: min-content;
+  }
+
+  .img-wrapper {
+    display: flex;
+    align-items: stretch;
+    max-width: 45%;
+    max-height: 5rem;
+  }
+
+  .img-wrapper img {
+    height: 100%;
+  }
+  .contact {
+    text-align: right;
+    font-size: 0.8rem;
+    max-width: 50%;
+    letter-spacing: -0.5px;
+  }
+
+  .contact p {
+    margin: 0.125rem;
   }
 </style>

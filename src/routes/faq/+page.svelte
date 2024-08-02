@@ -20,6 +20,10 @@
     notebook and a writing instrument. you should also bring your bible or bible
     app.
   </p>
+  <p>
+    if you'll be younger than 19 for the retreat, you'll also need to bring a
+    signed waiver.
+  </p>
 
   <p class="q">where are we meeting?</p>
   <p>
@@ -72,6 +76,19 @@
     to stay at the hotel or church building except for emergencies. so long as
     you are not being manipulative or sneaky, we are reasonable, so let’s talk.
     if you are in HS, you are not allowed to go off site without permission.
+  </p>
+
+  <p class="q">what will we do during small group quiet time?</p>
+  <p>On Mon + Tue mornings, we are going to start our day by...</p>
+  <p>• 9:00 - singing, sitting, and praying</p>
+  <p>• 9:10 - individual time with God</p>
+  <p>• 9:20 - SG sharing</p>
+  <p>&emsp;‣ what did you learn about the character or ways of God?</p>
+  <p>&emsp;‣ what questions do you have?</p>
+  <p>&emsp;‣ what could God be telling / asking you?</p>
+  <p>
+    • 9:50 - wrap-up* (end time may vary for the groups heading out to their
+    Exposure trip)
   </p>
 
   <p class="q">what will we do during the organized free time?</p>
