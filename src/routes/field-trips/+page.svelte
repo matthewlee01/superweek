@@ -47,7 +47,7 @@
     see what God is doing outside of our normal bubbles.
   </p>
   <p class="q">how will we get there?</p>
-  <p>by transit. if you do not have a transit pass, we will buy one for you.</p>
+  <p>by car or by transit. if you do not have a transit pass, we will buy one for you.</p>
   <p class="q">when are we going?</p>
   <p>
     the B+Y will be visiting on 8/12 (mon). the HS will be visiting on 8/13

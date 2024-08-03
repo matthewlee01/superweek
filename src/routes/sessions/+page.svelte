@@ -14,6 +14,7 @@
 	<p>4. response</p>
 	<p>5. benediction</p>
 	<p>6. post-set <span class="asterisk">*</span></p>
+	<p>7. small groups</p>
 	<p class="asterisk">* for those who want more space to sing, sit, pray or receive prayer
 	</p>
 
