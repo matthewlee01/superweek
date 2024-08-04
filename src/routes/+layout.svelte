@@ -176,6 +176,7 @@
   .content {
     max-width: 880px;
     margin-top: 4rem;
+    padding-bottom: 2rem;
   }
 
   .display {
