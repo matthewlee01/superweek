@@ -5,24 +5,28 @@
   <p class="q">who will be at this retreat?</p>
   <p>
     4 churches from vancouver + toronto:<br />
-    - <a href="https://lhf.ca/" target="_blank">living hope fellowship</a><br />
-    -
+    • <a href="https://lhf.ca/" target="_blank">living hope fellowship</a><br />
+    •
     <a href="https://bridgewaychurch.ca/" target="_blank">bridgeway church</a
     ><br />
-    - <a href="https://www.coah.ca/" target="_blank">city on a hill </a><br />
-    - <a href="https://vccem.com/" target="_blank">vaughan community church</a>
+    • <a href="https://www.coah.ca/" target="_blank">city on a hill </a><br />
+    • <a href="https://vccem.com/" target="_blank">vaughan community church</a>
   </p>
 
   <p class="q">what should i pack?</p>
   <p>
     the hotel will provide the usual hotel stuff (bedding, towels, shampoo,
-    soap, etc.), so bring everything else. if you like taking notes, bring a
-    notebook and a writing instrument. you should also bring your bible or bible
-    app.
+    soap, etc.), so bring everything else. be sure to sure to bring clothes that
+    you can work in, as some of the outreach activities will be active and
+    outside. if you like taking notes, bring a notebook and a writing
+    instrument. you should also bring your bible or bible app.
   </p>
   <p>
     if you'll be younger than 19 for the retreat, you'll also need to bring a
     signed waiver.
+  </p>
+  <p>
+    p.s. also consider bringing beach attire! the last day may involve some beach time.
   </p>
 
   <p class="q">where are we meeting?</p>
@@ -56,15 +60,15 @@
   <p class="q">what is “HS” and “B+Y”?</p>
   <p>
     we have two age groups attending super week: <br />
-    - HS: just finished gr. 10-12 <br />
-    - B+Y: roughly 19-30ish (post-secondary in 2023).
+    • HS: just finished gr. 10-12 <br />
+    • B+Y: roughly 19-30ish (post-secondary in 2023).
   </p>
 
   <p class="q">what is “B+Y”?</p>
   <p>
     it’s short for “BAYM + YAM” which stands for:<br />
-    - “becoming a young adult ministry” - about 18-22ish<br />
-    - “young adult ministry” - about 23-30ish
+    • “becoming a young adult ministry” - about 18-22ish<br />
+    • “young adult ministry” - about 23-30ish
   </p>
 
   <p class="q">shouldn’t “becoming a young adult ministry” be “BYAM”?</p>
