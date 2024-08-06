@@ -26,7 +26,8 @@
     signed waiver.
   </p>
   <p>
-    p.s. also consider bringing beach attire! the last day may involve some beach time.
+    p.s. the last day may involve some beach time for those sticking around after
+    it’s over (this is not a part of our official program).
   </p>
 
   <p class="q">where are we meeting?</p>
