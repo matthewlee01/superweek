@@ -16,18 +16,19 @@
   <p class="q">what should i pack?</p>
   <p>
     the hotel will provide the usual hotel stuff (bedding, towels, shampoo,
-    soap, etc.), so bring everything else. be sure to sure to bring clothes that
-    you can work in, as some of the outreach activities will be active and
-    outside. if you like taking notes, bring a notebook and a writing
-    instrument. you should also bring your bible or bible app.
+    soap, etc.), so bring everything else. be sure to sure to include:
   </p>
   <p>
-    if you'll be younger than 19 for the retreat, you'll also need to bring a
-    signed waiver.
+    • clothes that you can work in, as some of the outreach activities will be
+    active and outside.
   </p>
+  <p>• a notebook and a writing instrument, if you like taking notes.</p>
+  <p>• your bible or bible app.</p>
+  <p>• your transit pass (we will buy one for you if you don't have one)</p>
+  <p>• your signed waiver, if you're below the age of 19.</p>
   <p>
-    p.s. the last day may involve some beach time for those sticking around after
-    it’s over (this is not a part of our official program).
+    p.s. the last day may involve some beach time for those sticking around
+    after it’s over (this is not a part of our official program).
   </p>
 
   <p class="q">where are we meeting?</p>
